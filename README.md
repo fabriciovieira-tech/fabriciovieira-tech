@@ -25,7 +25,7 @@ Bacharel em **Sistemas de Informação** e técnico de informática, com mais de
 
 ---
 
-### Vamos nos conectar?
+### Acompanhe meus projetos. Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriciovieiira/)
 
