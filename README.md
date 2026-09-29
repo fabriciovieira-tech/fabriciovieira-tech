@@ -2,9 +2,9 @@
 
 ### Sobre Mim
 
-Graduado em **Sistemas de Informação** na Estácio de Sá. Possuo formação técnica em informática desde 2018 e estou em transição de carreira do setor comercial para a tecnologia. Sou apaixonado por transformar dados em decisões e construir soluções eficientes.
+Bacharel em **Sistemas de Informação** e técnico de informática, com mais de 10 anos de experiência em microinformática e cibernética. 
 
-- 🎯 **Foco atual:** Business Intelligence, Ciência de Dados e Desenvolvimento Backend.
+- 🎯 **Foco atual:** Desenvolvimento web Full Stack com React-native 
 - 📚 **Aprendendo:** Aperfeiçoando meu **inglês** e explorando **Generative AI**.
 
 ---
